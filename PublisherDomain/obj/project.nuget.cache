@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nl2VdX2+DWfks0IXxMMLjeY632gum1Hjj1mXKGmguSeTELOLiPSbvlw8LABKReNqpD9Swd7d7ZYZ2eLTc0CBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PhidelistOluochOmuya\\source\\repos\\PublisherAPP-EF-core\\PublisherDomain\\PublisherDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

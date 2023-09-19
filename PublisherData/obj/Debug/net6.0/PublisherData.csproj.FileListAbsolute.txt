@@ -1,0 +1,15 @@
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.csproj.AssemblyReference.cache
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfoInputs.cache
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfo.cs
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CoreCompileInputs.cache
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\bin\Debug\net6.0\PublisherData.deps.json
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\bin\Debug\net6.0\PublisherData.dll
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\bin\Debug\net6.0\PublisherData.pdb
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\bin\Debug\net6.0\PublisherDomain.dll
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\bin\Debug\net6.0\PublisherDomain.pdb
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CopyComplete
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.dll
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\refint\PublisherData.dll
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\PublisherData.pdb
+C:\Users\PhidelistOluochOmuya\source\repos\PublisherAPP-EF-core\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll
